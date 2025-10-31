@@ -116,9 +116,9 @@ I'm a **Full-Stack Developer & Designer** helping startups build and launch digi
 
 ➡️ [Read more on my blog](https://rafetech.com/blog)
 
----
-
 ## 💼 What I'm Building
+
+```javascript
 const currentFocus = {
   role: "Full-Stack Developer & Product Designer",
   company: "RafeTech",
@@ -157,7 +157,3 @@ Building something interesting? Let's talk!
 **"Building the future, one commit at a time"** 🚀
 
 </div>
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
