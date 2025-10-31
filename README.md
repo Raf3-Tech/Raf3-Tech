@@ -136,7 +136,7 @@ const currentFocus = {
   availability: "💡 Open to innovative collaborations & freelance projects",
   contact: "📧 hello@rafetech.com"
 }
-
+```
 
 ## 🤝 Let's Connect
 
