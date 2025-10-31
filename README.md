@@ -142,9 +142,9 @@ const currentFocus = {
 
 Building something interesting? Let's talk!
 
-- 💼 **Portfolio:** [rafetech.io]((https://rafetech.w3spaces.com))
+- 💼 **Portfolio:** [rafetech.w3spaces.com](https://rafetech.w3spaces.com)
 - 💬 **LinkedIn:** [linkedin.com/in/rafetech](https://linkedin.com/in/rafetech)
-- 📧 **Email:** [hello@rafetech.com](mailto:rafesibale@gmail.com)
+- 📧 **Email:** [rafesibale@gmail.com](mailto:rafesibale@gmail.com)
 
 ---
 
@@ -157,32 +157,6 @@ Building something interesting? Let's talk!
 **"Building the future, one commit at a time"** 🚀
 
 </div>
-```
-
----
-
-## 🎨 **2. TECH STACK BADGES EXPLAINED**
-
-### **What are badges?**
-
-Those colorful buttons showing your tech skills (like ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black))
-
-### **How to create them:**
-
-**URL Format:**
-```
-https://img.shields.io/badge/{LABEL}-{COLOR}?style={STYLE}&logo={LOGO}&logoColor={COLOR}## Hi there 👋
-
-<!--
-**Raf3-Tech/Raf3-Tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
