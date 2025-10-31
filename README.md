@@ -2,9 +2,9 @@
 
 <div align="center">
   
-[![Website](https://img.shields.io/badge/Website-rafetech.com-5046e5?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rafetech.w3spaces.com)
+[![Website](https://img.shields.io/badge/Website-rafetech.w3spaces.com-5046e5?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rafetech.w3spaces.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rafetech)
-[![Email](https://img.shields.io/badge/Email-hello@rafetech.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafesibale@gmail.com)
+[![Email](https://img.shields.io/badge/Email-rafesibale@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafesibale@gmail.com)
 
 </div>
 
