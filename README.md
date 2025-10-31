@@ -55,11 +55,11 @@ I'm a **Full-Stack Developer & Designer** helping startups build and launch digi
 
 <div align="center">
   
-![Rafael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafetech&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F72585&icon_color=4CC9F0)
+![Rafael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raf3-Tech&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F72585&icon_color=4CC9F0)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafetech&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F72585)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raf3-Tech&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F72585)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rafetech&theme=radical&hide_border=true&background=0D1117&ring=F72585&fire=4CC9F0&currStreakLabel=F72585)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Raf3-Tech&theme=radical&hide_border=true&background=0D1117&ring=F72585&fire=4CC9F0&currStreakLabel=F72585)
 
 </div>
 
