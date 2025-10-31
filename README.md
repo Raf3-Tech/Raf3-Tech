@@ -134,7 +134,7 @@ const currentFocus = {
     "Advanced PostgreSQL & Query Optimization"
   ],
   availability: "💡 Open to innovative collaborations & freelance projects",
-  contact: "📧 hello@rafetech.com"
+  contact: "📧 rafesibale@gmail.com"
 }
 ```
 
