@@ -12,10 +12,10 @@
 
 ## 🚀 About Me
 
-I'm a **Full-Stack Developer & Designer** helping startups build and launch digital products that actually matter. From MVP to scale, I turn ideas into production-ready code.
+I'm a **Full-Stack Quant Strategist** helping startups secure their sovereign data and infrasctructure.
 
-- 🔭 Currently working on: **AI-powered data analytics dashboard for SaaS startups**
-- 🌱 Learning: **Next.js 15, Three.js, Advanced PostgreSQL optimization**
+- 🔭 Currently working on: **AI-Powered Malawi Stock Exchange Mainboard analytics and strategy Dashboard**
+- 🌱 Learning: **Python, React.js, Gen-AI, Advanced PostgreSQL optimization through Supabase**
 - 💼 Open to: **Startup projects, technical co-founder opportunities**
 - ⚡ Fun fact: **I've helped launch 50+ products in the last 3 years**
 
