@@ -1,19 +1,18 @@
-# 👋 Rafe Sibale | Full Stack Quant Strategist
+# 👋 Rafe | Full Stack Quant Strategist
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/csibale)
 [![Email](https://img.shields.io/badge/Email-rafesibale@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafesibale@gmail.com)
-[![Location](https://img.shields.io/badge/Based_in-Malawi_🌍_Global_Remote-4CC9F0?style=for-the-badge)]()
 
 ---
 
 ## 🏦 What I Do
 
-I run **Raf3-Tech** — a specialist contractor studio that builds financial systems and fintech tools for startups and algo traders.
+I run **Raf3-Tech** — a specialist contractor studio that builds financial systems and fintech tools for startups and traders.
 
 > Other companies hire my team to work on their projects. I am the only point of contact.
 
 **We specialize in:**
-- ⚡ Algorithmic trading systems & arbitrage bots
+- ⚡ Algorithmic trading infrastructure
 - 🗄️ Financial data pipelines & database architecture
 - 🤖 AI-powered analytics for financial markets
 - 🔐 Sovereign data security & infrastructure
@@ -37,12 +36,16 @@ I run **Raf3-Tech** — a specialist contractor studio that builds financial sys
 > Tracks and showcases all projects funded through Rafund
 - **Tech:** HTML, JavaScript
 
+### 🏦 [Machine Learning for Trading Engine — Rafund](https://github.com/Raf3-Tech/rafund-ml4t)
+> A quantitative trading system -- a comprehensive Python framework for algorithmic trading using machine learning, backtesting, and data collection from cryptocurrency exchanges.
+- **Tech:** Python, pandas, NumPy, scikit-learn, PostgreSQL, CCXT (exchange API abstraction), FastAPI, and Plotly
+
 ---
 
 ## 🛠️ Tech Stack
 
 **Quant & Data**
-`Python` `Pandas` `PostgreSQL` `Supabase` `Data Pipelines` `WebSocket` `Web3.py`
+`Python` `Pandas` `PostgreSQL` `Supabase` `Data Pipelines` `WebSocket` `Web3.py` `NumPy` `scikit-learn` `FastAPI`
 
 **Backend**
 `Node.js` `Express` `Django` `MongoDB` `REST APIs`
@@ -67,5 +70,3 @@ If you're a **fintech startup or algo trader** who needs:
 **→ Let's talk:** [rafesibale@gmail.com](mailto:rafesibale@gmail.com) | [LinkedIn](https://linkedin.com/in/csibale)
 
 ---
-
-*"We don't just write code. We build financial infrastructure."*
